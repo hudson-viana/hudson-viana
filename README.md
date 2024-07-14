@@ -8,11 +8,9 @@ I’m a frontend developer aiming to become a MERN* fullstack developer. I conti
 
 ## Skills:
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- CSS, Tailwind CSS, Styled Components
+- React.js & Next.js
+- Javascript & Typescript
+- CSS, Tailwind CSS, Styled Components + HTML
 - Git and GitHub
 
 ## Qualities:
