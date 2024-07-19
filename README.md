@@ -1,6 +1,6 @@
 ## About me
 
-I’m a Front-end developer aiming to become a MERN* Full Stack developer. I continuously improve my skills by contributing to open source projects, creating personal projects that provide real solutions and value, and fully immersing myself in the development world by staying updated with best practices and news on YouTube, newsletters, Twitter(X), and coding during day, night and weekends. Currently, I’m specializing in the React ecosystem**.
+I create, fix and improve websites, web apps and landing pages. I’m a Front-end developer aiming to become a MERN* Full Stack developer. I continuously improve my skills by contributing to open source projects, creating personal projects that provide real solutions and value, and fully immersing myself in the development world by staying updated with best practices and news on YouTube, newsletters, Twitter(X), and coding during day, night and weekends. Currently, I’m specializing in the React ecosystem**.
 
 *MERN: MongoDB, Express.js, React, and Node.js
 
